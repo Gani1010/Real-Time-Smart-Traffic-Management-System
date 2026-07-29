@@ -122,7 +122,7 @@ Real-Time-Smart-Traffic-Management-System/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Real-Time-Smart-Traffic-Management-System.git
+git clone https://github.com/Gani1010/Real-Time-Smart-Traffic-Management-System.git
 ```
 
 Move into the project folder:
